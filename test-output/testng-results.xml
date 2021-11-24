@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-24T07:35:27 IST" name="Suite" finished-at="2021-11-24T07:35:37 IST" duration-ms="9971">
+    <groups>
+    </groups>
+    <test started-at="2021-11-24T07:35:27 IST" name="Test" finished-at="2021-11-24T07:35:37 IST" duration-ms="9971">
+      <class name="com.testng.org.parameterized">
+        <test-method signature="login_cerdentials(java.lang.String,java.lang.String)[pri:0, instance:com.testng.org.parameterized@6631f5ca]" started-at="2021-11-24T07:35:27 IST" name="login_cerdentials" finished-at="2021-11-24T07:35:37 IST" duration-ms="9899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ramesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_cerdentials -->
+      </class> <!-- com.testng.org.parameterized -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
